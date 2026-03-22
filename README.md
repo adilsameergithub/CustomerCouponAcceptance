@@ -1,11 +1,11 @@
 # CustomerCouponAcceptance
 Analysis and Investigation of coupon dataset to see if Drivers/Customers Accept the Coupon
 
-**Notebook**: [CustomerAcceptanceOfCouponsInvestigation.ipynb](CustomerAcceptanceOfCouponsInvestigation.ipynb)
+### ***Notebook***: [CustomerAcceptanceOfCouponsInvestigation.ipynb](CustomerAcceptanceOfCouponsInvestigation.ipynb)
 
-**Data Set**: [coupons.csv](coupons.csv)
+###  ***Data Set***: [coupons.csv](coupons.csv)
 
-**Problem**: will the Customer Accept the Coupon?
+### ***Problem***: will the Customer Accept the Coupon?
 
 The data set used in this notebook assignment was provided. The data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). 
 
@@ -22,7 +22,7 @@ Below is a visualization of the distribution of the various coupons accepted wit
 <br>
 <br>
 
-**Findings**:
+### ***Findings***:
 
 The major focus was to analyze and investigate the “Bar” coupon acceptance data. See below a few highlights based on the data analysis,
 * 81% of the drivers that accepted the coupon went 3 or fewer times to a bar a month.
@@ -36,4 +36,5 @@ Additional analysis was done on the data exploring the Coffee House coupon, see 
 
 Please see associated notebook for additional analysis and visualizations.
 
-**Next Steps and Recommendations**: Based on the above analysis, other coupon categories should be investigated as well to complete the analysis and based on the results, the coupons can be served or advertised more towards those groups that have a higher acceptance ratio.
+### ***Next Steps and Recommendations***: 
+Based on the above analysis, other coupon categories should be investigated as well to complete the analysis and based on the results, the coupons can be served or advertised more towards those groups that have a higher acceptance ratio.
