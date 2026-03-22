@@ -20,14 +20,14 @@ Below is a visualization of the distribution of the various coupons accepted wit
 
 
 The major focus was to analyze and investigate the “Bar” coupon acceptance data. See below a few highlights based on the data analysis,
-81% of the drivers that accepted the coupon went 3 or fewer times to a bar a month
-Drivers tend to have the highest rate of acceptance that were around age 26 and who go to bars more than once a month, but it starts reducing as you get older. In addition, it starts peaking again after age 35. Under the age of 25, the rate of acceptance is at the lowest levels.
+* 81% of the drivers that accepted the coupon went 3 or fewer times to a bar a month.
+* Drivers tend to have the highest rate of acceptance that were around age 26 and who go to bars more than once a month, but it starts reducing as you get older. In addition, it starts peaking again after age 35. Under the age of 25, the rate of acceptance is at the lowest levels.
 
 Additional analysis was done on the data exploring the Coffee House coupon, see below few observations,
-This was the largest and most popular coupon accepted.
-The coffee House coupon has almost a 50/50 split acceptance & rejection ratio
-Singles and Married Partners tend to accept coupons for Coffee houses at a higher ratio
-From an age grouping perspective, 26 & younger tend to accept coupons for Coffee Houses at a higher ratio
+* This was the largest and most popular coupon accepted.
+* The coffee House coupon has almost a 50/50 split acceptance & rejection ratio.
+* Singles & Married Partners tend to accept coupons for Coffee houses at a higher ratio.
+* From an age grouping perspective, 26 & younger tend to accept coupons for Coffee Houses at a higher ratio.
 
 Please see associated notebook for additional analysis and visualizations.
 
