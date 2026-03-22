@@ -10,7 +10,7 @@ Analysis and Investigation of coupon dataset to see if Drivers/Customers Accept 
 
 The data set used in this notebook assignment was provided. The data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). 
 
-The overall quality of the data set was generally good and didn’t need much cleaning or transformation. t
+The overall quality of the data set was generally good and didn’t need much cleaning or transformation.
 The # of duplicate rows were a very small portion and hence were not removed. 
 The null value columns within the dataset were relatively small as well and were kept as is as they shouldn’t have impacted any of the analysis or plots.
 
