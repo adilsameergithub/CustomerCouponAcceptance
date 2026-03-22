@@ -18,6 +18,8 @@ Below is a visualization of the distribution of the various coupons accepted wit
 <img width="589" height="565" alt="Screen Shot 2026-03-21 at 10 28 03 PM" src="https://github.com/user-attachments/assets/beaca0b5-d049-4471-a968-be626cac0065" />
 
 
+
+
 **Findings**:
 
 The major focus was to analyze and investigate the “Bar” coupon acceptance data. See below a few highlights based on the data analysis,
