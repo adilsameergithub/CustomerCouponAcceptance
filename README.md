@@ -1,9 +1,9 @@
 # CustomerCouponAcceptance
 Analysis and Investigation of coupon dataset to see if Drivers/Customers Accept the Coupon
 
-Notebook: CustomerAcceptanceOfCouponsInvestigation.ipynb
-Data Set: coupons.csv
-Problem: will the Customer Accept the Coupon?
+**Notebook**: CustomerAcceptanceOfCouponsInvestigation.ipynb
+**Data Set**: coupons.csv
+**Problem**: will the Customer Accept the Coupon?
 
 The data set used in this notebook assignment was provided. The data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). 
 
@@ -27,4 +27,4 @@ From an age grouping perspective, 26 & younger tend to accept coupons for Coffee
 
 Please see associated notebook for additional analysis and visualizations.
 
-Next Steps and Recommendations: Based on the above analysis, other coupon categories should be investigated as well to complete the analysis and based on the results, the coupons can be served or advertised more towards those groups that have a higher acceptance ratio.
+**Next Steps and Recommendations**: Based on the above analysis, other coupon categories should be investigated as well to complete the analysis and based on the results, the coupons can be served or advertised more towards those groups that have a higher acceptance ratio.
