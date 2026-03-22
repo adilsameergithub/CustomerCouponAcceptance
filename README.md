@@ -3,7 +3,7 @@ Analysis and Investigation of coupon dataset to see if Drivers/Customers Accept 
 
 **Notebook**: [CustomerAcceptanceOfCouponsInvestigation.ipynb](CustomerAcceptanceOfCouponsInvestigation.ipynb)
 
-**Data Set**: coupons.csv
+**Data Set**: [coupons.csv](coupons.csv)
 
 **Problem**: will the Customer Accept the Coupon?
 
