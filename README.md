@@ -1,7 +1,7 @@
 # CustomerCouponAcceptance
 Analysis and Investigation of coupon dataset to see if Drivers/Customers Accept the Coupon
 
-**Notebook**: CustomerAcceptanceOfCouponsInvestigation.ipynb
+**Notebook**: [CustomerAcceptanceOfCouponsInvestigation.ipynb](CustomerAcceptanceOfCouponsInvestigation.ipynb)
 
 **Data Set**: coupons.csv
 
